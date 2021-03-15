@@ -8,3 +8,7 @@
 ## Dentro da Raiz do projeto faça
 - npm i
 - npm start
+
+
+#Repostas
+- Estão na pasta answers
